@@ -2,7 +2,7 @@
 
 **Project Overview:**
 
-This project aims to predict customer churn for a telecommunications company. By identifying customers at risk of leaving, the company can implement targeted retention strategies.
+This project aims to predict customer churn for a bank. By identifying customers at risk of leaving, the company can implement targeted retention strategies.
 
 **Problem Statement:**
 
@@ -62,3 +62,12 @@ The dataset contains customer information, including:
 * **Validation:**
     * Cross-validation was used during the Gridsearch to validate the model's robustness.
     * Retrained the XGBoost model with tuned hyperparameters using GridSearchCV.
+
+## Project Team and Contributions
+
+This project was a collaborative effort with:
+
+* **Charles Ejete**:
+    * Role: Report Generation, Data Visualization
+    * Responsibilities: Created exploratory data visualizations, assisted with data cleaning, generated reports and visualizations, contributed to documentation.
+    * Contact: https://github.com/Olisa123456
