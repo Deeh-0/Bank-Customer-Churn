@@ -35,7 +35,7 @@ The model achieved an accuracy of approximately 86% on the test set. Key feature
 
 ### Collaborators
 
-* Charles Ejete - Collaboratoe - https://github.com/Olisa123456
+* Charles Ejete - Collaborator - https://github.com/Olisa123456
 
 ### Contributing
 
