@@ -33,6 +33,11 @@ A Random Forest Classifier was one of the models used to predict customer churn.
 
 The model achieved an accuracy of approximately 86% on the test set. Key features influencing churn were identified.
 
+### Collaborators
+
+* Charles Ejete - Collaboratoe - https://github.com/Olisa123456
+
 ### Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues.
+
